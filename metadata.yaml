@@ -1,0 +1,32 @@
+_repo: The-Transvaal-from-WithinA-Private-Record-of-Public-Affairs_16494
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzpatrick, Percy
+    aliases:
+    - Fitzpatrick, James Percy, Sir
+    - Fitzpatrick, J. P.
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '6749'
+    url: http://www.gutenberg.org/2009/agents/6749
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2005-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16494'
+  lccn: 05018381
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Jameson''s Raid, 1895-1896'
+- !lcsh 'Transvaal (South Africa) -- Politics and government -- 1880-1910'
+title: 'The Transvaal from Within: A Private Record of Public Affairs'
+url: http://www.gutenberg.org/ebooks/16494
